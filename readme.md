@@ -1,6 +1,6 @@
 # Frontend Master Complete Intro to Linux and the Command-line
 
-## Anatomyl of a Command Line Interface
+## Anatomy of a Command Line Interface
 
 What we see when we open a terminal is a command line prompt. Basically command
 line prompt is a REPL (Read, Evaluate, Print, Loop) for shell. REPL is an
